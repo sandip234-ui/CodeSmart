@@ -1,0 +1,54 @@
+{
+  "../../../../@crx/manifest": {
+    "file": "assets/crx-manifest.js-C1tW7pv0.js",
+    "name": "crx-manifest.js",
+    "src": "../../../../@crx/manifest",
+    "isEntry": true
+  },
+  "_select-!~{004}~.js": {
+    "file": "assets/select-C8TFXi3Q.css",
+    "src": "_select-!~{004}~.js"
+  },
+  "_select-DIUtHlG1.js": {
+    "file": "assets/select-DIUtHlG1.js",
+    "name": "select",
+    "css": [
+      "assets/select-C8TFXi3Q.css"
+    ]
+  },
+  "content.tsx-loader.js": {
+    "file": "assets/content.tsx-loader-B3YcfcR2.js",
+    "src": "content.tsx-loader.js"
+  },
+  "index.html": {
+    "file": "assets/index.html-BQGXJEEa.js",
+    "name": "index.html",
+    "src": "index.html",
+    "isEntry": true,
+    "imports": [
+      "_select-DIUtHlG1.js"
+    ],
+    "assets": [
+      "assets/leetcode-D0VPESVK.png"
+    ]
+  },
+  "src/assets/leetcode.png": {
+    "file": "assets/leetcode-D0VPESVK.png",
+    "src": "src/assets/leetcode.png"
+  },
+  "src/background.js": {
+    "file": "assets/background.js-D_GWt4_i.js",
+    "name": "background.js",
+    "src": "src/background.js",
+    "isEntry": true
+  },
+  "src/content.tsx": {
+    "file": "assets/content.tsx-DZw423Sc.js",
+    "name": "content.tsx",
+    "src": "src/content.tsx",
+    "isEntry": true,
+    "imports": [
+      "_select-DIUtHlG1.js"
+    ]
+  }
+}

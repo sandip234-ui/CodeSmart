@@ -8,6 +8,6 @@ CodeSmart is a Chrome extension that helps users learn and solve LeetCode proble
 - ✅ Clean and user-friendly Chrome extension interface
 - ✅ Helps with coding interviews and DSA learning
 
-  ## 🙏 Acknowledgment
+# 🙏 Acknowledgments
 
-Special thanks to the **Web Technology Club (WTC), SoVET CUTM BBSR**, for organizing the Codefort AIthon and inspiring the creation of this project.
+We would like to express our sincere thanks to the Web Technology Club (WTC) for organizing the Codefort AIthon event. Their hard work and support made this project possible. Thank you for the opportunity!
